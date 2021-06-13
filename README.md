@@ -7,6 +7,7 @@ Churn Data analysis
 2.   The Objective of the project is to explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention and How do you reduce churn?
 
 **Data Summary**
+
 The Data provided set is of Orange S.A. a French multinational telecommunications corporation from 51 states of US.
 The Data set contain 20 features/columns with 3333 observations each representing different customers. 
 
